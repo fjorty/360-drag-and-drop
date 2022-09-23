@@ -41,10 +41,11 @@ const App = () => {
 
   const HandleResize = () => {
     setIsMobile(useMobileDetect().isMobile());
+    setItems(useMobileDetect().isMobile() ? defaultItems.slice(0,8) : defaultItems);
+    if (!useMobileDetect().isMobile()) setTimeout(() => window.location.reload(false), 500);
   }
 
-  const [isMobile, setIsMobile] = useState(useMobileDetect().isMobile());
-  const [items, setItems] = useState([
+  const defaultItems = [
     { id: 1, name: 'linkedin', url: SMLogo1 },
     { id: 2, name: 'twitter', url: SMLogo2 },
     { id: 3, name: 'instagram', url: SMLogo3 },
@@ -57,7 +58,9 @@ const App = () => {
     // { id: 10, name: 'idk10', url: SMLogo10 },
     { id: 11, name: 'messenger', url: SMLogo11 },
     { id: 12, name: 'whatssapp', url: SMLogo12 }
-  ]);
+  ];
+  const [isMobile, setIsMobile] = useState(useMobileDetect().isMobile());
+  const [items, setItems] = useState(isMobile ? defaultItems.slice(0,8) : defaultItems);
 
   useEffect(() => {
     window.addEventListener('resize', HandleResize);
