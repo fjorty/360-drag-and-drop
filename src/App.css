@@ -32,14 +32,6 @@
   transition: all .5s;
 }
 
-.grid-item:hover {
-  transform: scale(1.1);
-}
-
-.grid-item:hover .grid-item-img {
-  background-color: rgba(0, 0, 0, 0.1);
-}
-
 .grid-item-img {
   width: 60px;
   height: 60px;
@@ -59,4 +51,14 @@
   text-transform: uppercase;
   text-align: center;
   margin-top: 4px;
+}
+
+@media (hover: hover) {
+  .grid-item:hover {
+    transform: scale(1.1);
+  }
+  
+  .grid-item:hover .grid-item-img {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
 }
