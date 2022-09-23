@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/360-drag-and-drop/static/css/main.5e22e32d.css",
+    "main.js": "/360-drag-and-drop/static/js/main.6ac67525.js",
+    "static/js/787.b00acf4e.chunk.js": "/360-drag-and-drop/static/js/787.b00acf4e.chunk.js",
+    "static/media/sm-logo-7.svg": "/360-drag-and-drop/static/media/sm-logo-7.2eeaf46fad9ebf430237dd29b46a3745.svg",
+    "static/media/sm-logo-5.svg": "/360-drag-and-drop/static/media/sm-logo-5.bb502877fc18f813e5712e407a7042b4.svg",
+    "static/media/sm-logo-3.svg": "/360-drag-and-drop/static/media/sm-logo-3.92d7c48a8c1e102f8f92869e8b1172f1.svg",
+    "static/media/sm-logo-2.svg": "/360-drag-and-drop/static/media/sm-logo-2.1594fa2f076219e342b84e4016e1673e.svg",
+    "static/media/sm-logo-12.svg": "/360-drag-and-drop/static/media/sm-logo-12.b6b49b6bbfbdd95107b4b049dc8f0b45.svg",
+    "static/media/sm-logo-8.svg": "/360-drag-and-drop/static/media/sm-logo-8.363844b41d225353e22977ca22888ffb.svg",
+    "static/media/sm-logo-6.svg": "/360-drag-and-drop/static/media/sm-logo-6.fbc2c1f85a7fc6b438b9c91721885019.svg",
+    "static/media/sm-logo-1.svg": "/360-drag-and-drop/static/media/sm-logo-1.ca4fdd490f3370f9d7fbe2f2ac775539.svg",
+    "index.html": "/360-drag-and-drop/index.html",
+    "static/media/sm-logo-11.svg": "/360-drag-and-drop/static/media/sm-logo-11.fc45d98763355a15f8c480d5665200b4.svg",
+    "static/media/sm-logo-9.svg": "/360-drag-and-drop/static/media/sm-logo-9.a87694db9974e1a63fa7fecaca4bde0d.svg",
+    "main.5e22e32d.css.map": "/360-drag-and-drop/static/css/main.5e22e32d.css.map",
+    "main.6ac67525.js.map": "/360-drag-and-drop/static/js/main.6ac67525.js.map",
+    "787.b00acf4e.chunk.js.map": "/360-drag-and-drop/static/js/787.b00acf4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e22e32d.css",
+    "static/js/main.6ac67525.js"
+  ]
+}
