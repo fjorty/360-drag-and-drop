@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/360-drag-and-drop/static/css/main.4820f537.css",
-    "main.js": "/360-drag-and-drop/static/js/main.6ac67525.js",
+    "main.css": "/360-drag-and-drop/static/css/main.ff4fe5e2.css",
+    "main.js": "/360-drag-and-drop/static/js/main.fb7a8076.js",
     "static/js/787.b00acf4e.chunk.js": "/360-drag-and-drop/static/js/787.b00acf4e.chunk.js",
     "static/media/sm-logo-7.svg": "/360-drag-and-drop/static/media/sm-logo-7.2eeaf46fad9ebf430237dd29b46a3745.svg",
     "static/media/sm-logo-5.svg": "/360-drag-and-drop/static/media/sm-logo-5.bb502877fc18f813e5712e407a7042b4.svg",
@@ -14,12 +14,12 @@
     "index.html": "/360-drag-and-drop/index.html",
     "static/media/sm-logo-11.svg": "/360-drag-and-drop/static/media/sm-logo-11.fc45d98763355a15f8c480d5665200b4.svg",
     "static/media/sm-logo-9.svg": "/360-drag-and-drop/static/media/sm-logo-9.a87694db9974e1a63fa7fecaca4bde0d.svg",
-    "main.4820f537.css.map": "/360-drag-and-drop/static/css/main.4820f537.css.map",
-    "main.6ac67525.js.map": "/360-drag-and-drop/static/js/main.6ac67525.js.map",
+    "main.ff4fe5e2.css.map": "/360-drag-and-drop/static/css/main.ff4fe5e2.css.map",
+    "main.fb7a8076.js.map": "/360-drag-and-drop/static/js/main.fb7a8076.js.map",
     "787.b00acf4e.chunk.js.map": "/360-drag-and-drop/static/js/787.b00acf4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4820f537.css",
-    "static/js/main.6ac67525.js"
+    "static/css/main.ff4fe5e2.css",
+    "static/js/main.fb7a8076.js"
   ]
 }
